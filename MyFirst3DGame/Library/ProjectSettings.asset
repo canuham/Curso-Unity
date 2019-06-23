@@ -617,6 +617,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Collab: 1
     UNet: 1
   luminIcon:
     m_Name: 
@@ -637,10 +638,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: b2813425-5c1f-4c80-af5b-ce2f921f227c
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: MyFirst3DGame
+  organizationId: caraham0203
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
